@@ -1,0 +1,7 @@
+.buttonFeedback {
+    margin-left: 25px;
+    width: 70px;
+    color: teal;
+    background-color: yellow;
+    cursor: pointer;
+}
